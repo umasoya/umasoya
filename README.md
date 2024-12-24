@@ -1,6 +1,10 @@
 # umasoya
 
-Hi 👋, I'm umasoya. I'm a Japanese full stack engineer.
+Hi 👋, I'm umasoya. I'm a Japanese full stack engineer.  
+
+![umasoya's GitHub stats](https://github-readme-stats-3aet.vercel.app/api/?username=umasoya&show_icons=true&theme=merko)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=umasoya&theme=onedark)](https://github.com/umasoya/github-profile-trophy)
 
 ## 💪Skills
 
@@ -30,6 +34,7 @@ Hi 👋, I'm umasoya. I'm a Japanese full stack engineer.
 
 ## 📨Contact
 
+If you’re interested, feel free to email me❗️
 
 <a href="mailto:umasoya.0331+github_profile@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
