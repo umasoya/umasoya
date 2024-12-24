@@ -1,32 +1,36 @@
-<h1>umasoya</h1>
-<p>Hi 👋, I'm umasoya. I'm a Japanese full stack engineer</p>
+# umasoya
 
-<h2>Skills</h2>
+Hi 👋, I'm umasoya. I'm a Japanese full stack engineer.
 
-<p>
-    <h3>Backend</h3>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,python,go,laravel" />
-    </a>
-</p>
+## 💪Skills
 
-<p>
-    <h3>Frontend</h3>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,jquery,react,webpack,gulp,babel,vite" />
-    </a>
-</p>
+### ️Backend
 
-<p>
-    <h3>Infrastructure</h3>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws," />
-    </a>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python,go,laravel" />
+</a>
 
-<p>
-    <h3>Misc</h3>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vim,ansible,docker,bash,git,jenkins,mysql,sqlite,nginx,redis," />
-    </a>
-</p>
+### Frontend
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,jquery,react,webpack,gulp,babel,vite" />
+</a>
+
+### Infrastructure
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws," />
+</a>
+
+### Misc
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,ansible,docker,bash,git,jenkins,mysql,sqlite,nginx,redis," />
+</a>
+
+## 📨Contact
+
+
+<a href="mailto:umasoya.0331+github_profile@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
