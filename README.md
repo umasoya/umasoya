@@ -2,9 +2,17 @@
 
 Hi 👋, I'm umasoya. I'm a Japanese full stack engineer.  
 
-![umasoya's GitHub stats](https://github-readme-stats-3aet.vercel.app/api/?username=umasoya&show_icons=true&theme=merko)
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umasoya&layout=compact&theme=merko" alt="Top Langs" />
+    </a>
+    <a href="">
+        <img height="170px" src="https://github-readme-stats-3aet.vercel.app/api/?username=umasoya&show_icons=true&theme=merko" alt="GitHub Stats" />
+    </a>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=umasoya&theme=onedark)](https://github.com/umasoya/github-profile-trophy)
+
 
 ## 💪Skills
 
