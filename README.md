@@ -4,9 +4,9 @@ Hi 👋, I'm umasoya. I'm a Japanese full stack engineer.
 
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umasoya&layout=compact&theme=merko" alt="Top Langs" />
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umasoya&layout=compact&theme=merko&hide=css,html," alt="Top Langs" />
     </a>
-    <a href="">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="170px" src="https://github-readme-stats-3aet.vercel.app/api/?username=umasoya&show_icons=true&theme=merko" alt="GitHub Stats" />
     </a>
 </p>
