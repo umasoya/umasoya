@@ -17,19 +17,31 @@ Hi 👋, I'm umasoya. I'm a Japanese full stack engineer.
 ### Frontend
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,jquery,react,webpack,gulp,babel,vite" />
+    <img src="https://skillicons.dev/icons?i=next,react,typescript,html,scss,jquery,webpack,gulp,babel,vite,tailwind" />
+</a>
+
+### Datastore
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis," />
 </a>
 
 ### Infrastructure
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws," />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker" />
+</a>
+
+### CI/CD
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible" />
 </a>
 
 ### Misc
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,ansible,docker,bash,git,jenkins,mysql,sqlite,nginx,redis," />
+    <img src="https://skillicons.dev/icons?i=github,vim,neovim,nginx,bash,cloudflare" />
 </a>
 
 ## 📨Contact
